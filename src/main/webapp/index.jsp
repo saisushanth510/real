@@ -27,8 +27,8 @@
 	<div class="container">
 
 		<header>
-			<h1> CSEC cse Cloud Learning Platform</h1> 
-			<h4>Contact:9347703792 Email:dharmavarapuashwini@gmail.com</h4> 
+			<h1> SAI SUSHANTH Cloud Learning Platform</h1> 
+			<h4>Contact:9100816843 Email: saisushanth510@gmail.com</h4> 
 		</header>
 
 		<div id="tabs">
@@ -101,7 +101,7 @@
 	</div >
 
 	<div class="container">
-		<footer>@ kanakeshwar.901@gmail.com 2024 AVN Technologies. All rights Reserved.</footer>
+		<footer>@ saisushanth510@gmail.com 2026 AVN Technologies. All rights Reserved.</footer>
 	</div>
 
 </body>
